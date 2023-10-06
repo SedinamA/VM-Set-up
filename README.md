@@ -1,4 +1,4 @@
-<h1>Virtual Machine-Set-up</h1>
+<h1>Virtual Machine Set-up</h1>
 This is a brief tutorial on how to go about creating two virtual machines (VM) in Microsoft Azure.<br />
 
 <h2>Environments and Technologies Used</h2>
