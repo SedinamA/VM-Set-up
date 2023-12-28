@@ -152,6 +152,37 @@ Navigate to the virtual machine section again and observe the status, both machi
 
 ![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/022a5c87-9d74-4449-a2b3-4022dafc4d77)
 
+![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/2382b5c7-5e77-479c-b98a-d9376ebb5db5)
+
+![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/68bd305d-ff88-4946-93b7-f73079979d3f)
+
+![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/e5e3210c-0e20-4ce5-9d24-b08569fe69cf)
+
+![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/4ef0aef2-a6e4-4f05-897d-93b8160144f5)
+
+![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/9f6240c6-f57b-4fae-a9d3-ffd70cc0d19f)
+
+![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/12c23696-bd2f-4911-9f4c-655bdc1ed3b5)
+
+![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/55b118c8-313f-4ca5-8558-83b3d64baaa6)
+
+![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/73735855-bdbd-4030-ba97-65ba3398adae)
+
+![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/145c8d2c-f534-4036-a6c2-00514e65fa98)
+
+![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/35ab2f55-52ad-4ecd-8049-a5a757db63cc)
+
+![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/13f38f75-5f9d-4fcc-8524-501c269bf983)
+
+
+
+
+
+
+
+
+
+
 
 
 
