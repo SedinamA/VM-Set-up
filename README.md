@@ -180,7 +180,11 @@ Navigate to the virtual machine section again and observe the status, both machi
 
 ![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/1aba97c0-466a-4d25-b086-6c371a53399c)
 
-20.55.52.182 fgf
+![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/7b2b0517-bc83-432d-aa24-9abc9a4b7bab)
+
+![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/e6f08f63-adfb-46c8-bcc2-c5573ce36256)
+
+
 
 
 
