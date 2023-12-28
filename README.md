@@ -140,50 +140,6 @@ Confirm that the machine has been deployed by clicking the notification bell or 
 Navigate to the virtual machine section again and observe the status, both machines should be “running” on their respective operating systems(Linux and Windows). We have now created two virtual machines.  
 
 
-*****VULNERABILITY Manag.
-
-![image](https://github.com/SedinamA/VM-Traffic/assets/146953803/3b32603f-d4e4-49e9-a48c-a4fe096a632c)
-
-![image](https://github.com/SedinamA/VM-Traffic/assets/146953803/bfb3b6fc-051d-431f-b154-aff5b46760dc)
-
-![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/9cd72a94-7c1e-44d6-95a8-748624f26af5)
-
-![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/55fe470d-0db0-4f64-bc3b-604d0be29fd9)
-
-![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/022a5c87-9d74-4449-a2b3-4022dafc4d77)
-
-![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/2382b5c7-5e77-479c-b98a-d9376ebb5db5)
-
-![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/68bd305d-ff88-4946-93b7-f73079979d3f)
-
-![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/e5e3210c-0e20-4ce5-9d24-b08569fe69cf)
-
-![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/4ef0aef2-a6e4-4f05-897d-93b8160144f5)
-
-![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/9f6240c6-f57b-4fae-a9d3-ffd70cc0d19f)
-
-![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/12c23696-bd2f-4911-9f4c-655bdc1ed3b5)
-
-![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/55b118c8-313f-4ca5-8558-83b3d64baaa6)
-
-![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/73735855-bdbd-4030-ba97-65ba3398adae)
-
-![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/145c8d2c-f534-4036-a6c2-00514e65fa98)
-
-![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/35ab2f55-52ad-4ecd-8049-a5a757db63cc)
-
-![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/13f38f75-5f9d-4fcc-8524-501c269bf983)
-
-![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/34e78633-d683-469e-84c0-eb76d69d5143)
-
-![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/3294d527-9642-4997-bc0a-901f29ad2b00)
-
-![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/1aba97c0-466a-4d25-b086-6c371a53399c)
-
-![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/7b2b0517-bc83-432d-aa24-9abc9a4b7bab)
-
-![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/e6f08f63-adfb-46c8-bcc2-c5573ce36256)
-
 
 
 
