@@ -130,14 +130,28 @@ Verify that the Virtual Network is the same as the virtual network from the firs
 Once the validation process is passed, click “Create”
 
 
-
 ![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/b8b0fc6f-10fb-4fa5-b147-ead938d5345c)ScreenGrab 20
 
 Confirm that the machine has been deployed by clicking the notification bell or observing the overview screen.
 
 
-
 ![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/e4a39dc3-a744-4c0d-83bf-9546e598d350)ScreenGrab 21
 
 Navigate to the virtual machine section again and observe the status, both machines should be “running” on their respective operating systems(Linux and Windows). We have now created two virtual machines.  
+
+
+*****VULNERABILITY Manag.
+
+![image](https://github.com/SedinamA/VM-Traffic/assets/146953803/3b32603f-d4e4-49e9-a48c-a4fe096a632c)
+
+![image](https://github.com/SedinamA/VM-Traffic/assets/146953803/bfb3b6fc-051d-431f-b154-aff5b46760dc)
+
+![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/9cd72a94-7c1e-44d6-95a8-748624f26af5)
+
+![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/55fe470d-0db0-4f64-bc3b-604d0be29fd9)
+
+![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/022a5c87-9d74-4449-a2b3-4022dafc4d77)
+
+
+
 
