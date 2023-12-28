@@ -176,6 +176,12 @@ Navigate to the virtual machine section again and observe the status, both machi
 
 ![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/34e78633-d683-469e-84c0-eb76d69d5143)
 
+![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/3294d527-9642-4997-bc0a-901f29ad2b00)
+
+![image](https://github.com/SedinamA/VM-Set-up/assets/146953803/1aba97c0-466a-4d25-b086-6c371a53399c)
+
+
+
 
 
 
